@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaminKlemm
 - 👀 I’m interested in starting up my portfolio
 - 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on projects for beginners‚
 
 <!---
 
